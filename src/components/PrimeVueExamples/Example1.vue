@@ -1,7 +1,6 @@
 <template>
   <div class="card p-fluid">
-      <Chips v-model="value" placeholder="+ Add Tag" removeTokenIcon="pi pi-times">
-      </Chips>
+      <Chips v-model="value" placeholder="+ Add Tag" removeTokenIcon="pi pi-times" />
   </div>
 </template>
 
