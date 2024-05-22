@@ -1,6 +1,6 @@
 <template>
   <div class="p-6">
-      <Chips v-model="value" placeholder="+ Add Tag" removeTokenIcon="pi pi-times" />
+      <Chips v-model="value" placeholder="+ Add Tag" />
   </div>
 </template>
 
